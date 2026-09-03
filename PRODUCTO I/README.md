@@ -1,5 +1,4 @@
 # Video de Defensa
 
-**Enlace directo al video de YouTube:**
 
-**Link del Drive por si falla youtube:**
+**Link del Drive:** https://drive.google.com/file/d/1WEwdoIe_Sd1eBvOXinf71WlpTs-sRYEI/view?usp=sharing
