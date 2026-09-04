@@ -4,11 +4,13 @@
 **Profesor:** Ing. Félix Márquez  
 **Fecha de entrega:** 4 de septiembre de 2026.
 
----
+
 
 
 ## 👾 Grupo: Team Pixel & Code
 *"Estrategia, desarrollo y valor real"*
+
+---
 
 
 
@@ -23,6 +25,7 @@ Marketplace que conecta usuarios que necesitan servicios técnicos del hogar (pl
 Diseñar la planificación completa de un proyecto de software no construido, aplicando los conceptos de la Unidad 2: modelos predictivos, ágiles e híbridos, artefactos de visión y estructuras de desglose del trabajo.
 
 Duración mínima planificada del proyecto: **16 semanas**.
+
 
 
 ## 🔗 Entregables
