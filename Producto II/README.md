@@ -1,7 +1,7 @@
 # Producto II
-**Unidad 2: Planificación y Ciclos de Vida**
-**Asignatura:** Ingeniería de Software II
-**Profesor:** Ing. Félix Márquez
+**Unidad 2: Planificación y Ciclos de Vida**  
+**Asignatura:** Ingeniería de Software II  
+**Profesor:** Ing. Félix Márquez  
 **Fecha de entrega:** 4 de septiembre de 2026.
 
 ---
