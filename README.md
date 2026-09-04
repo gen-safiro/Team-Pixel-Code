@@ -2,6 +2,11 @@
 
 **"Estrategia, desarrollo y valor real"**
 
+
+![Estado](https://img.shields.io/badge/estado-en%20progreso-blue)
+![Asignatura](https://img.shields.io/badge/asignatura-Ingenieria%20de%20Software%20II-purple)
+![Universidad](https://img.shields.io/badge/universidad-UNEG-orange)
+
 Repositorio del grupo para las entregas de la asignatura **Ingeniería de Software II** — UNEG.
 
 ---
