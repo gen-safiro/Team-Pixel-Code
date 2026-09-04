@@ -7,7 +7,7 @@
 ---
 
 
-## 🧩 Grupo: Team Pixel & Code
+## 👾 Grupo: Team Pixel & Code
 *"Estrategia, desarrollo y valor real"*
 
 
