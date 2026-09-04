@@ -47,7 +47,7 @@ Duración mínima planificada del proyecto: **16 semanas**.
 |---|---|---|
 | Bravo Yvanna | V-28.530.717 | Acta de Constitución (Project Charter) |
 | Guilarte Keibel | V-28.726.605 | Planteamiento del proyecto en metodología ágil o híbrida |
-| Rivas Miguel | V-19.505.397 | WBS (enfoque predictivo) |
+| Rivas Miguel | V-19.505.397 | WBS y Roadmap (enfoque predictivo) |
 | Varguillas Génesis | V-24.848.424 | Lean Canvas |
 
 ---
