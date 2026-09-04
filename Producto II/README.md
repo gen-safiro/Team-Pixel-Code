@@ -30,7 +30,7 @@ Duración mínima planificada del proyecto: **16 semanas**.
 | Entregable | Enlace |
 |---|---|
 | Acta de Constitución (Project Charter) | [Ver PDF](./Project_Charter_FixIt.pdf) |
-| Lean Canvas | [Ver PDF](./Lean_Canvas.pdf) |
+| Lean Canvas | [Ver PDF](./Lean_canvas.pdf) |
 | WBS / EDT (enfoque predictivo) | [Ver PDF](./WBS_FixIt.pdf) |
 | Planteamiento Ágil o Híbrido | [Ver PDF](./Enfoque_Agil_FixIt.pdf) |
 | Video de defensa | [Ver en Google Drive](#) |
