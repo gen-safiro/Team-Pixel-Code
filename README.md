@@ -28,4 +28,5 @@ Repositorio del grupo para las entregas de la asignatura **Ingeniería de Softwa
 |---|---|
 | [`Producto I`](./PRODUCTO%20I) | Unidad 1: Fundamentos de la Gestión de Proyectos y Productos de Software |
 | [`Producto II`](./PRODUCTO%20II) | Planificación del proyecto **FixIt** — Unidad 2: Planificación y Ciclos de Vida (Project Charter, Lean Canvas, WBS, enfoque ágil/híbrido) |
+| [`Producto III`](./PRODUCTO_III) | Unidad 3: Estimación en Entornos Complejos aplicada a **FixIt** (PERT/Monte Carlo, Ley de Brooks y Cono de Incertidumbre, EDT, Red PERT/CPM y Gantt) |
 
