@@ -27,9 +27,9 @@ Aplicar los conceptos de estimación clásica, ágil y contemporánea (PERT, mé
 
 | Entregable | Enlace |
 |---|---|
-| Ejercicio 1 — PERT a Monte Carlo/Flujo | [Ver PDF](./Ejercicio1%20-%20PERT%20-%20MonteCarlo%20(Flujo)) |
-| Ejercicio 2 — Falacia de los Recursos y Cono de Incertidumbre | [Ver PDF](./Ejercicio2_Falacia_Recursos_Cono_Incertidumbre_Genesis.pdf) |
-| Ejercicio 3 — EDT, Red PERT/CPM y Gantt (archivo del PM tool) | [Ver archivo](./Ejercicio_3_FixIt.pod) |
+| Ejercicio 1 — PERT a Monte Carlo/Flujo | 
+| Ejercicio 2 — Falacia de los Recursos y Cono de Incertidumbre | 
+| Ejercicio 3 — EDT, Red PERT/CPM y Gantt (archivo del PM tool) | 
 | Video de defensa | [Ver en Google Drive](https://drive.google.com/...) |
 
 ---
