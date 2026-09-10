@@ -23,15 +23,13 @@ Aplicar los conceptos de estimación clásica, ágil y contemporánea (PERT, mé
 
 ---
 
-## 🔗 Entregables
+### 🔗 Entregables
 
-| Entregable 
-|---|---|
-| Ejercicio 1 — PERT a Monte Carlo/Flujo  
-| Ejercicio 2 — Falacia de los Recursos y Cono de Incertidumbre 
-| Ejercicio 3 — EDT, Red PERT/CPM y Gantt (archivo del PM tool)  
-
-| Video de defensa | [Ver en Google Drive](https://drive.google.com/...) |
+| Lista de Entregables |
+| :--- |
+| 🔹 **Ejercicio 1:** PERT a Monte Carlo / Flujo |
+| 🔹 **Ejercicio 2:** Falacia de los Recursos y Cono de Incertidumbre |
+| 🔹 **Ejercicio 3:** EDT, Red PERT/CPM y Gantt (archivo del PM tool) |
 
 ---
 
