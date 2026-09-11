@@ -34,7 +34,7 @@ Aplicar los conceptos de estimación clásica, ágil y contemporánea (PERT, mé
 
 | Recurso | Enlace |
 | :--- | :---: |
-| 🎬 **Video de defensa** | [Ver en Google Drive](https://drive.google.com/...) |
+| 🎬 **Video de defensa** | [Ver en Google Drive](https://drive.google.com/file/d/1INY9DNgTjBM_xDmsGuQb98ycv7d6MlYz/view?usp=sharing) |
 
 ---
 
