@@ -29,7 +29,7 @@ Aplicar los conceptos de identificación, análisis y mitigación de riesgos (cu
 
 | Recurso | Enlace |
 | :--- | :---: |
-| 🎬 **Video de defensa** | [Ver en Google Drive]() |
+| 🎬 **Video de defensa** | [Ver en Google Drive](https://drive.google.com/file/d/1zFQvjQszCnRacDyst1WzIS7Bmn_1r9jq/view?usp=sharing) |
 
 ---
 
