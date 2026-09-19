@@ -29,7 +29,7 @@ Aplicar los conceptos de control de versiones avanzado (Git, ramas, Trunk-Based 
 
 | Recurso | Enlace |
 | :--- | :---: |
-| 🎬 **Video de defensa** | en Google Drive]( ) | |
+| 🎬 **Video de defensa** | en Google Drive]() | |
 
 ---
 
