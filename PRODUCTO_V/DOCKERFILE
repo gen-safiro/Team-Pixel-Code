@@ -1,0 +1,42 @@
+# 1. Imagen base oficial de Node.js sobre Windows Server Core o Nano Server
+FROM mcr.microsoft.com/mjs/node:18-nanoserver-ltsc2022
+
+# 2. Definir el directorio de trabajo (sintaxis de rutas de Windows)
+WORKDIR C:/app
+
+# 3. Copiar manifest de dependencias
+COPY package*.json ./
+
+# 4. Instalar dependencias de producción
+RUN npm ci --only=production
+
+# 5. Copiar el resto del código fuente
+COPY . .
+
+# 6. Exponer el puerto
+EXPOSE 8080
+
+# 7. Comando de inicio
+CMD ["node", "server.js"]
+
+
+#Como reuleve esto la dewriva de configuracion?
+#El Dockerfile elimina este problema mediante los siguientes mecanismos:
+
+#Entorno inmutable y declarativo:
+#En lugar de seguir una lista de pasos manuales que 
+#dependen del estado previo del servidor, el Dockerfile
+#define exactamente la imagen base (versión de OS y Node.js),
+#variables de entorno y dependencias requeridas.
+
+#Determinismo en las ejecuciones: Al usar una version fija 
+#(como node:18-nanoserver) y comandos como npm ci (que instala 
+#las versiones exactas especificadas en package-lock.json), 
+#cualquier persona o servidor que construya la imagen obtendra 
+#un entorno identico byte por byte.
+
+#Aislamiento de dependencias: La aplicación corre dentro de un
+#contenedor aislado con su propio sistema de archivos y librerías, 
+#sin depender de los paquetes globales ni de las configuraciones del
+#sistema operativo host donde se ejecute.
+
