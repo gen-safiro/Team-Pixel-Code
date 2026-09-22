@@ -1,6 +1,6 @@
 # Demo práctica: GitFlow vs. Trunk-Based Development
 
-Pregunta 2 — Unidad 5 · Team Pixel & Code
+**Pregunta 2 — Unidad 5 · Team Pixel & Code**
 
 **Ponente: Génesis Varguillas (V-24.848.424)**
 
