@@ -1,7 +1,8 @@
 # Demo práctica: GitFlow vs. Trunk-Based Development
 
 Pregunta 2 — Unidad 5 · Team Pixel & Code
-Ponente: Génesis Varguillas (V-24.848.424)
+
+**Ponente: Génesis Varguillas (V-24.848.424)**
 
 Esta carpeta contiene la evidencia práctica de la comparación entre los modelos
 de ramificación GitFlow y Trunk-Based Development, usada como apoyo para la
