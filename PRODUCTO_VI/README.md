@@ -29,7 +29,7 @@ Aplicar los conceptos de liderazgo, diseño de equipos y cultura de ingeniería 
 
 | Recurso | Enlace |
 | :--- | :---: |
-| 🎬 **Video de defensa** | [Ver en Google Drive]([enlace]) |
+| 🎬 **Video de defensa** | [Ver en Google Drive]([https://drive.google.com/file/d/1TGq0hZHJ0X4EpVFXWYg7IldnSwjHfDUR/view?usp=sharing]) |
 
 ---
 
