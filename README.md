@@ -31,5 +31,7 @@ Repositorio del grupo para las entregas de la asignatura **Ingeniería de Softwa
 | [`Producto III`](./PRODUCTO_III) | Unidad 3: Estimación en Entornos Complejos aplicada a **FixIt** (PERT/Monte Carlo, Ley de Brooks y Cono de Incertidumbre, EDT, Red PERT/CPM y Gantt) |
 | [`Producto IV`](./PRODUCTO_IV) | Unidad 4:  Gestión de Riesgos y Deuda Técnica |
 | [`Producto V`](./PRODUCTO_V) | Unidad 5: Gestión de Configuración, Versionamiento y DevOps |
+| [`Producto VI`](./PRODUCTO_VI) | Unidad 6: Liderazgo, Equipos y Cultura de Ingeniería |
+
 
 
