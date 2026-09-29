@@ -32,8 +32,7 @@ Repositorio del grupo para las entregas de la asignatura **Ingeniería de Softwa
 | [`Producto IV`](./PRODUCTO_IV) | Unidad 4:  Gestión de Riesgos y Deuda Técnica |
 | [`Producto V`](./PRODUCTO_V) | Unidad 5: Gestión de Configuración, Versionamiento y DevOps |
 | [`Producto VI`](./PRODUCTO_VI) | Unidad 6: Liderazgo, Equipos y Cultura de Ingeniería |
-| [`Producto VII`](./PRODUCTO_VII) | Unidad 7 y 8: Monitoreo, Calidad y Cierre del Proyecto: De la Medición a la Mejora Continua Operativa
- |
+| [`Producto VII`](./PRODUCTO_VII) | Unidad 7 y 8: Monitoreo, Calidad y Cierre del Proyecto: De la Medición a la Mejora Continua Operativa |
 
 
 
