@@ -27,7 +27,7 @@ Aplicar los conceptos de monitoreo híbrido, métricas de alto rendimiento y cie
 
 | Recurso | Enlace |
 | :--- | :---: |
-| 📄 **Documento de respuestas (PDF)** | [Ver en la carpeta PRODUCTO VII](./) |
+| 📄 **Documento de respuestas (PDF)** | [Ver PDF](./) |
 | 🎬 **Video de defensa** | [Ver en Google Drive](ENLACE_AQUI) |
 
 ---
